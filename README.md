@@ -1,35 +1,26 @@
-# Code Innovate Event Team Repository
+# Welcome to the Howard University Course Planning Repository!
 
-This github repository will serve as your central location for your team to Ideate, collaborate and document your progress during the Code Innovate event. Please review the information below in order to get a better understanding of how we will leverage github during our event.  
+We have been engaged by Eugenio Galiano and Kay Malcom to generate content for a university course to be piloted at Howard University this Fall 2022 semester for their undergraduate Computer Science students! We have created this repository for the purpose of project management and task tracking.
 
-## [Click here for How To's](howtosEdit.md)
-Add how to's link in the paranthesis above and delete this line
+Most of the action will be happening in [Projects > Tasks](https://github.com/Cloud-Code-Innovate/CodeInnovate-UniversityPlanning-Team-1/projects/1).
 
-## Lightning Talks Content
-- [Lightning Talk Template](lightning_talk_template.pptx)
-- [Oracle Brand Cloud Architecture Icon Collection](Oracle_Brand_Cloud_Architecture_Icon_Collection.pptx)
-- [OCI Graphics for Topologies and Diagrams](https://docs.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm)
+## How to Use this Repository
 
-## Prerequisite for Code Innovate 
+Track your tasks in [Projects > Tasks](https://github.com/Cloud-Code-Innovate/CodeInnovate-UniversityPlanning-Team-1/projects/1)
+Share files and resources here or through the Cloud. 
 
-## Use Case - Add Use Case Details Here
+## Course Content
 
-## Team 
-| Name | Email |Github Username: |
+We are assembling a suite of solutions around the healthcare space, including a file sharing site, 
+
+## Use Cases
+
+Add Use Case Details Here
+
+## Oracle Team 
+| Name | Email | Expertise |
 |--- |--- |--- |
 ||||
 ||||
 ||||
 ||||
-
-## Your Oracle Engineers
-| Name 	     | Email	                |Github Username: |
-|--- |--- |--- |
-||||
-
-## Oracle Staff
-| Name | Role | Email| Github Username: |
-|---	 |---	  |---   |---   |
-||CE Lead|||
-||Zoom Lead|||
-||PM Lead|||
